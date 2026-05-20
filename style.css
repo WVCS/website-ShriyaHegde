@@ -1,3 +1,16 @@
-body {
-
+img {
+  width: 750px;
+  border: salmon 12px dotted;
+      border-radius: 50%;
 }
+body{
+  background-color: beige;
+}
+h1 {
+  color:coral;
+  text-decoration: wavy
+   3px brown underline;
+    text shadow: 0 0 13px gold;
+  
+}
+
